@@ -1,0 +1,73 @@
+.product{
+    width: 350px;
+    float: left;
+    box-shadow: 4px 5px 4px 3px #635f5f;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.product img{
+    width: 100%;
+    
+}
+.product button{
+    background-color: blueviolet;
+    padding: 10px;
+}
+.Basic{
+    width: 350px;
+}
+.Basic img{
+    width: 100%;
+}
+.contact input, .contact textarea{
+    margin-bottom: 10px;
+    border: 2px solid #7c7b7b;
+}
+.contact textarea{
+    height: 150px !important;
+}
+.contact .errmsg{
+    color: red;
+}
+.toplayer{
+    background-color: blue;
+    
+}
+.toplayer ul{
+    padding-top:10px;
+}
+.toplayer ul li{
+    display: inline;
+}
+.toplayer a{
+    text-decoration: none;
+color: white;
+padding-right: 10px;
+font-weight: 500;
+}
+.navbar-brand img{
+    width:50px
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: red;
+}
+footer{
+    background-color: blue;
+    }
+footer p{
+    color: white;
+    padding: 10px;
+    font-weight: 500;
+}    
+.banner img{
+    width: 100%;
+}
+.admin ul li{
+    display: block;
+    padding-bottom: 15px;
+}

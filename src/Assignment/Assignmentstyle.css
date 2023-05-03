@@ -1,0 +1,26 @@
+.shop{
+    width: 300px;
+    float:left;
+    border: 2px solid rgb(186, 180, 192);
+    margin: 10px;
+    padding: 10px;
+}
+.shop img{
+    width: 95%;
+    height: 400px;
+}
+.about img{
+padding: 10px;
+}
+.gallery img{
+width: 100%;
+padding: 10px;
+height: 400px;
+}
+.course img{
+    width: 100%;
+    padding: 10px;
+}
+.course h3{
+    padding: 10px;
+}
